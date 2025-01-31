@@ -13,7 +13,7 @@
 
  • Customer count increased by xx%
  
-** Overview YTD:**
+**Overview YTD:**
 
  • Overall revenue is 57M
  
